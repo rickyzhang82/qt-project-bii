@@ -1,0 +1,12 @@
+src/CrossPlatform
+src/include
+src/native_cpu
+src/powerrom_cpu
+src/SDL
+src/slirp
+src/uae_cpu
+src/uae_cpu/compiler
+src/uae_cpu/fpu
+src/Unix
+src/Unix/config.h
+src/Unix/sysdeps.h
